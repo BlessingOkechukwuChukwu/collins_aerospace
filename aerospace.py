@@ -5,7 +5,7 @@ from cryptography.fernet import Fernet
 
 # For a flight from terminal A to B, randomly assign a pilot and an aircraft to the customer 
 
-# To do 
+# To do .....
 # -request customers' name 
 # -show avalable terminals with the terminal code beside it
 # -request the terminal code from the customer (takeoff terminal). 
